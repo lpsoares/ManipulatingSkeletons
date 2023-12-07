@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Maos.unity
+    guid: a4e6347d27f6ba444aa057279a9d9c03
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 79e236fbd079c0b41a6a5413f6512149, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 645b66906856a454ca573275caecf26e, type: 2}
