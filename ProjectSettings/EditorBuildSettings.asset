@@ -5,9 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/Maos.unity
-    guid: a4e6347d27f6ba444aa057279a9d9c03
+  - enabled: 1
+    path: Assets/Scenes/ManipulatingSkeletons_hand_tracking.unity
+    guid: d88e823cd6a55b0428eed8cffca3284a
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 79e236fbd079c0b41a6a5413f6512149, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 645b66906856a454ca573275caecf26e, type: 2}
