@@ -8,3 +8,7 @@ https://www.youtube.com/watch?v=hV6MCbDDTKQ
 - Made with OpenXR
 - Uses Hand Tracking (no controller required)
 
+# Image
+![Example Image](https://github.com/lpsoares/ManipulatingSkeletons/blob/main/example.png)
+
+  
